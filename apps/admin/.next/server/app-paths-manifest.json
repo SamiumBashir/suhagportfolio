@@ -1,0 +1,7 @@
+{
+  "/settings/page": "app/settings/page.js",
+  "/content/page": "app/content/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/media/page": "app/media/page.js",
+  "/users/page": "app/users/page.js"
+}
